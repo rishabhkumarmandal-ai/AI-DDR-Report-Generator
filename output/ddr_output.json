@@ -1,0 +1,14 @@
+{
+  "property_issue_summary": "LLM call failed: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}",
+  "area_wise_observations": [],
+  "probable_root_cause": "Not Available",
+  "severity_assessment": {
+    "level": "Medium",
+    "reason": "Not Available"
+  },
+  "recommended_actions": [],
+  "additional_notes": "Not Available",
+  "missing_information": [
+    "LLM generation"
+  ]
+}

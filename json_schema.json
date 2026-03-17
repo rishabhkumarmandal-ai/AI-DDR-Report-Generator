@@ -1,0 +1,19 @@
+{ 
+"property_issue_summary": "string", 
+"area_wise_observations": [ 
+{ 
+"area": "string", 
+"observation": "string", 
+"thermal_insight": "string", 
+"image_reference": "string" 
+} 
+], 
+"probable_root_cause": "string", 
+"severity_assessment": { 
+"level": "Low | Medium | High", 
+"reason": "string" 
+}, 
+"recommended_actions": ["string"], 
+"additional_notes": "string", 
+"missing_information": ["string"] 
+}
